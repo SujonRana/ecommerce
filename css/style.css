@@ -32,3 +32,56 @@
 .parallex .content{
     padding: 150px 0px;
 }
+.header_nav li a{
+    font-weight: 600;
+    transition: .3s;
+}
+.header_nav li .active, .header_nav li a:hover{
+    color: rgb(253, 165, 49) !important;
+    font-weight: 600;
+}
+.button_hover:hover{
+    color: rgb(255, 145, 0) !important;
+}
+.model_section .card_image_overly{
+    background-color: rgba(255, 5, 5, 0.2);
+    transition: .4s;
+    
+}
+.card_image_overly:hover{
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    background-color: rgba(255, 5, 5,.6);
+}
+.product_section .hover_product{
+    transition: .4s;
+}
+.product_section .hover_product:hover{
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+}
+.quality .icon{
+    font-size: 70px;
+    color: rgba(0,0,0,0.5);
+}
+.footer_section{
+    background-color: rgb(241, 241, 234);
+    padding: 60px 0px;
+}
+.footer_section li{
+    list-style: none;
+}
+.footer_section ul{
+    margin:0px;
+    padding: 0px;
+}
+.footer_section li a{
+    text-decoration: none;
+    color: rgb(93, 93, 93);
+    font-size: 18px;
+}
+.footer_section li a:hover{
+    color: rgb(0, 0, 163);
+}
+.footer_section img{
+    width: 50%;
+    margin-top:30px;
+}
