@@ -1,0 +1,34 @@
+.header_area{
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+}
+.header_nav{
+    background-color:rgba(0,0,0,0.07);
+}
+.header_content h2{
+    font-size: 60px;
+    margin-top: 100px;
+    font-weight: 600;
+}
+.header_content button{
+    margin-bottom: 200px;
+    font-weight: 600;
+}
+.product_section hr{
+    width: 10%;
+    border: 1px solid black;
+    margin:30px auto;
+}
+.parallex{
+    background-image: url(../images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+}
+.parallex .content{
+    padding: 150px 0px;
+}
