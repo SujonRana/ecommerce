@@ -37,7 +37,7 @@
     transition: .3s;
 }
 .header_nav li .active, .header_nav li a:hover{
-    color: rgb(253, 165, 49) !important;
+    color: #fda531 !important;
     font-weight: 600;
 }
 .button_hover:hover{

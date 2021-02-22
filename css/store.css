@@ -1,0 +1,15 @@
+.store_header .header_nav  a{
+    color: black !important;
+}
+.store_header .header_nav  .active{
+    color: #fda531 !important;
+}
+.sidebar{
+    overflow-y:scroll; 
+    
+    max-height:1080px;
+}
+nav .pagenation_center{
+    margin: auto !important;
+    background-color: red;
+}
