@@ -13,3 +13,17 @@ nav .pagenation_center{
     margin: auto !important;
     background-color: red;
 }
+.store_header button .text-white {
+    color: gray !important;
+    margin-top: 10px;
+}
+
+
+
+
+/* responsive */
+@media(max-width:960px){
+    .store_section .sidebar{
+        display: none;
+    }
+}
