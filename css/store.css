@@ -22,7 +22,7 @@ nav .pagenation_center{
 
 
 /* responsive */
-@media(max-width:960px){
+@media(max-width:993px){
     .store_section .sidebar{
         display: none;
     }
